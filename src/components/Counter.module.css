@@ -16,8 +16,9 @@
 }
 
 .value {
+ 
   font-size: 2rem;
   color: #3c0080;
-  margin: 2rem 0;
+  margin: 2rem 1rem;
   font-weight: bold;
 }
